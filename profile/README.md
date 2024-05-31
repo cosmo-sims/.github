@@ -1,4 +1,4 @@
-## Welcome to COSMO-SIMS, home of MUSIC 👋
+## 👋 Welcome to COSMO-SIMS, home of MUSIC 🎵
 
 🙋‍♀️ You can find a lot of numerical cosmology related software here, such as the MUSIC and monofonIC initial condition generators, the tools to interface with the cosmICweb database, as well as (soon) the DISCO-DJ differentiable simulation ecosystem.
 
