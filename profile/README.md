@@ -4,6 +4,12 @@
 
 🍿 Check out our new [cosmICweb database](https://cosmicweb.eu)!
 
+🧙 Current and past contributors include:
+- Oliver Hahn
+- Michael Buehlmann
+- Florian List
+- Lukas Winkler
+- Thomas Montandon
 <!--
 
 **Here are some ideas to get you started:**
